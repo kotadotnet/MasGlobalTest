@@ -1,0 +1,9 @@
+K:\Personal\MASGlobal\Employee\Employee.Data\bin\Debug\netcoreapp2.2\Employee.Data.deps.json
+K:\Personal\MASGlobal\Employee\Employee.Data\bin\Debug\netcoreapp2.2\Employee.Data.dll
+K:\Personal\MASGlobal\Employee\Employee.Data\bin\Debug\netcoreapp2.2\Employee.Data.pdb
+K:\Personal\MASGlobal\Employee\Employee.Data\obj\Debug\netcoreapp2.2\Employee.Data.csproj.CoreCompileInputs.cache
+K:\Personal\MASGlobal\Employee\Employee.Data\obj\Debug\netcoreapp2.2\Employee.Data.AssemblyInfoInputs.cache
+K:\Personal\MASGlobal\Employee\Employee.Data\obj\Debug\netcoreapp2.2\Employee.Data.AssemblyInfo.cs
+K:\Personal\MASGlobal\Employee\Employee.Data\obj\Debug\netcoreapp2.2\Employee.Data.dll
+K:\Personal\MASGlobal\Employee\Employee.Data\obj\Debug\netcoreapp2.2\Employee.Data.pdb
+K:\Personal\MASGlobal\Employee\Employee.Data\obj\Debug\netcoreapp2.2\Employee.Data.csprojAssemblyReference.cache

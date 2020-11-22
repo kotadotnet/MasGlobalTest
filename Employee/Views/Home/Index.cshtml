@@ -1,0 +1,62 @@
+﻿
+@model List<Employee.Data.EmployeeDTO>
+
+
+
+@using (Html.BeginForm("Get", "Home", FormMethod.Get))
+{
+    <div class="form-horizontal">
+        <div class="form-group">
+            <label class="control-label col-md-2 form-group">Employee Id</label>
+            <div class="col-md-10">
+                <input type="text" name="Id" id="Id" value="Enter Id" , class="red form-control col-md-2"
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Get employees" class="btn btn-default " style="background-color:cadetblue" / >
+            </div>
+        </div>
+
+    </div>
+
+    @if (Model != null)
+    {
+        <table class="table table-sm table-striped table-bordered m-2">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>ContractType Name</th>
+                    <th>Role Name</th>
+                    <th>Hourly Salary</th>
+                    <th>Monthly Salary</th>
+                    <th>Annual Salary</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var e in Model)
+                {
+                    <tr>
+                        <td>@e.Id</td>
+                        <td>@e.Name</td>
+                        <td>@e.ContractTypeName</td>
+                        <td>@e.RoleName</td>
+                        <td>@e.HourlySalary</td>
+                        <td>@e.MonthlySalary</td>
+                        <td>@e.AnnualSalary</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+}
+<style>
+    .red {
+        color: red;
+    }
+
+    .label {
+        background-color: black
+    }
+</style>

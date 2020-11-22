@@ -1,0 +1,12 @@
+K:\Personal\MASGlobal\Employee\Employee.Business\bin\Debug\netcoreapp2.2\Employee.Business.deps.json
+K:\Personal\MASGlobal\Employee\Employee.Business\bin\Debug\netcoreapp2.2\Employee.Business.dll
+K:\Personal\MASGlobal\Employee\Employee.Business\bin\Debug\netcoreapp2.2\Employee.Business.pdb
+K:\Personal\MASGlobal\Employee\Employee.Business\bin\Debug\netcoreapp2.2\Employee.Data.dll
+K:\Personal\MASGlobal\Employee\Employee.Business\bin\Debug\netcoreapp2.2\Employee.Data.pdb
+K:\Personal\MASGlobal\Employee\Employee.Business\obj\Debug\netcoreapp2.2\Employee.Business.csprojAssemblyReference.cache
+K:\Personal\MASGlobal\Employee\Employee.Business\obj\Debug\netcoreapp2.2\Employee.Business.csproj.CoreCompileInputs.cache
+K:\Personal\MASGlobal\Employee\Employee.Business\obj\Debug\netcoreapp2.2\Employee.Business.AssemblyInfoInputs.cache
+K:\Personal\MASGlobal\Employee\Employee.Business\obj\Debug\netcoreapp2.2\Employee.Business.AssemblyInfo.cs
+K:\Personal\MASGlobal\Employee\Employee.Business\obj\Debug\netcoreapp2.2\Employee.Business.csproj.CopyComplete
+K:\Personal\MASGlobal\Employee\Employee.Business\obj\Debug\netcoreapp2.2\Employee.Business.dll
+K:\Personal\MASGlobal\Employee\Employee.Business\obj\Debug\netcoreapp2.2\Employee.Business.pdb
